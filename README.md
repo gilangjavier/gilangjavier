@@ -1,16 +1,21 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 ### Hi there 👋
 
-<!--
-**gilangjavier/gilangjavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a DevOps working in Indonesia.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Super Shinyyyyyy;
+- 🇵🇹 Planing the "DevOps Journey on Youtube";
+- 🍑 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working at **Hidden**
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.jar`, `.war`, `AWS`, `CI/CD`
+- 🌍 I'm mostly active within the **DevOps Reddit Community**
+- 🌱 Learning all about **Cloud Tech**
+- 💬 Ping me about **DevOps**, **Automation**, **CI/CD**, **Cloud Infra**
+- 📫 Reach me: [instagram.com/gilangjavier](https://instagram.com/gilangjavier)
+- ⚡️ Fun fact: I'm a huge fan of Eric Chou
