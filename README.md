@@ -13,7 +13,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **Hidden**
-- ⚙️ I use daily: `.py`, `.js`, `.html`, `.jar`, `.war`, `AWS`, `CI/CD`
+- ⚙️ I use daily: `Terraform`, `AWS`, `Azure`, `Digital Ocean`, `Docker`, `Container`, `CI/CD` , `Kubernetes Cluster`
 - 🌍 I'm mostly active within the **DevOps Reddit Community**
 - 🌱 Learning all about **Cloud Tech**
 - 💬 Ping me about **DevOps**, **Automation**, **CI/CD**, **Cloud Infra**
